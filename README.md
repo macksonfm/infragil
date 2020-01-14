@@ -10,8 +10,7 @@ Um pequeno exemplo de uma aplicacao em python, com dois arquivos:
 ## Utilizacao
 
 '''bash
-# Exemplo de uso
-
+#Exemplo de uso
 apt-get install -y python3-flask
 python3 app.py
 '''
